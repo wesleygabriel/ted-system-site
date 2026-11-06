@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Responsabilidade ",
+      descricao: " Fazer o que é certo, mesmo quando ninguém está olhando."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Cleber da Silva",
+      cargo: "Guardião de Engenharia Responsável e Cultura Tech",
+      foto: " ",
+      alt: "Foto de Cleber da Silva",
+      descricao: "Protege a estabilidade, acessibilidade e segurança dos sistemas contra a pressa dos deploys."
     }
   ]
 };
